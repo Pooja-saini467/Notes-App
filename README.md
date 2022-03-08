@@ -19,7 +19,7 @@
 - All operation will be stored in local storage.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Notes-App/blob/main/image.png">
 
 ## Demo
 
